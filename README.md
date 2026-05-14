@@ -1,8 +1,8 @@
 Angry Birds на Unity — заряжай рогатку, круши зелёных свиней и разрушай постройки!
 Главное меню | Игровой процесс | Разрушаемые конструкции и боссы
 
-<img width="1267" height="711" alt="Снимок экрана 2026-05-14 200822" src="https://github.com/user-attachments/assets/ee6404f1-8a0f-4c0f-8a3a-f4f1c106d9b7" width="30%"/>
-<img width="585" height="329" alt="Снимок экрана 2026-05-14 200805" src="https://github.com/user-attachments/assets/c272dd96-ab52-48cc-816b-29ca97abdfa0" width="30%"/>
+<img width="1267" height="711" alt="Снимок экрана 2026-05-14 200822" src="https://github.com/user-attachments/assets/ee6404f1-8a0f-4c0f-8a3a-f4f1c106d9b7" />
+<img width="585" height="329" alt="Снимок экрана 2026-05-14 200805" src="https://github.com/user-attachments/assets/c272dd96-ab52-48cc-816b-29ca97abdfa0" />
 
 
 
